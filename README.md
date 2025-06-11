@@ -18,13 +18,13 @@
 
 ## 🗂️ Project Structure
 
-~ 
+~~~ 
 simi-ai/
 ├── app.py                  # Main Flask application with webhook logic
 ├── schemes_final.json      # JSON file containing schemes data
 ├── requirements.txt        # Project dependencies (Flask==2.3.2)
 └── README.md               # This README file
-~
+~~~
 
 ## 🛠️ Getting Started
 
